@@ -1719,7 +1719,7 @@
             "UnEscapeURLs": {
                 "name": "UnEscapeURLs", 
                 "tests": [
-                    "TestUnEscapeUrl"
+                    "UnEscapeURLs-Test"
                 ]
             }
         }, 
