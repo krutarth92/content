@@ -15848,6 +15848,19 @@
                     "kafka-print-topics": "Kafka V2"
                 }
             }
+        }, 
+        {
+            "UnEscapeURLs-Test": {
+                "name": "UnEscapeURLs-Test", 
+                "implementing_scripts": [
+                    "UnEscapeURLs", 
+                    "DeleteContext", 
+                    "VerifyHumanReadableContains"
+                ], 
+                "tests": [
+                    "no tests"
+                ]
+            }
         }
     ]
 }
